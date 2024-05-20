@@ -1,0 +1,11 @@
+# ignore venv files
+venv/*
+
+# ignore .DS_Store files
+.DS_Store
+
+# ignore irregular_operation_html files
+irregular_operation_pages/*
+
+# ignore csv files which are made by the program
+*.csv
